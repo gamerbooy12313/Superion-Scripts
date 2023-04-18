@@ -1,4 +1,4 @@
---Dungeon Quest autofarm! (OP GUI) WORKS FOR EGG ISLAND, OR ANY OTHER DUNGEON!
+-- Credits To Mrrobswag he originaly made this and the dude who claims he made this didnt mrobswag did
 
 _G.teleportDuringBossOnly = true -- if true, only use smallTeleports when its time for a boss
 _G.doInstakill = true
@@ -11,7 +11,7 @@ _G.showPath = true
 _G.extremelyFast = true -- makes the ai think exponentially faster, but might lag for people
 
 -- Lobby Settings
-_G.maxWaitTimeInLobby = 0 -- this is how long itll randomly walk around for before going into a dungeon 
+_G.maxWaitTimeInLobby = 5 -- this is how long itll randomly walk around for before going into a dungeon 
 _G.collect_daily_reward = true
 
 -- Dungeon Choosing Settings
